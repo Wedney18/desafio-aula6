@@ -1,1 +1,1 @@
-Na aula 06 de lógica e programação foi proposto pelo Júlio de Lima da mentoria 2.0 em Testes de Software que deveríamos reproduzir os testes feitos nos arquivos "pesquisar.js" e "pesquisar.test.js" utilizando JavaScript.
+Na aula 06 de lógica e programação foi proposto pelo Júlio de Lima da Mentoria 2.0 em Testes de Software que deveríamos reproduzir os testes feitos nos arquivos "pesquisar.js" e "pesquisar.test.js" utilizando JavaScript e subir aqui no github.
